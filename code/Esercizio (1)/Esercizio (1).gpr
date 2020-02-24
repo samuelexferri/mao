@@ -1,0 +1,43 @@
+[PROJECT]
+
+[RP:MODELLO]
+1=
+
+[RP:MAIN]
+1=
+
+[RP:PUNTO C-B - COPY]
+1=
+
+[OPENWINDOW_1]
+MAXIM=1
+TOP=20
+LEFT=-7
+HEIGHT=722
+WIDTH=804
+
+[RP:PUNTO C-B]
+1=
+
+[RP:PUNTO C-A]
+1=
+
+[RP:PUNTO B]
+1=
+
+[RP:PUNTO A]
+1=
+
+[RP:INPUT]
+1=
+
+[MRUFILES]
+1=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Input.gms
+2=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Input.lst
+3=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto A.gms
+4=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto A.lst
+5=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto B.gms
+6=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto B.lst
+7=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto C-A.gms
+8=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto C-A.lst
+9=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (1)\Punto C-B.gms

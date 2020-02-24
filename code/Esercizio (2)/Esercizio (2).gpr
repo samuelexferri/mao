@@ -1,0 +1,183 @@
+[PROJECT]
+
+[GDXDISP: Level Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Condotte Par 11]
+PlaneDim=0
+RowDim=11
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4,5,6,7,8,9,10,11
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Condotte Par 10]
+PlaneDim=0
+RowDim=10
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4,5,6,7,8,9,10
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Volumi Par 7]
+PlaneDim=0
+RowDim=7
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4,5,6,7
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Volumi Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Condotte Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Bacini Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[RP:PUNTO C-B]
+1=
+
+[RP:EXAMPLE2_SESSION1_MASTER]
+1=
+
+[RP:EXAMPLE3_SMALL_CONSUMER_PV_INPUTS]
+1=
+
+[RP:EXAMPLE4_CAPEXPANSION_CLASS]
+1=
+
+[RP:EXAMPLE4_CAPEXPANSION_INPUTS]
+1=
+
+[GDXDISP: ApportiNaturali Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ApportiNaturali Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,3,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Carico Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ProducibilitaEolica Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: Centrali Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[RP:TEST]
+1=
+
+[RP:INPUT]
+1=
+
+[RP:PUNTO A]
+1=
+
+[RP:PUNTO B]
+1=
+
+[RP:PUNTO C]
+1=
+
+[RP:PUNTO D]
+1=
+
+[RP:PUNTO E]
+1=
+
+[RP:PUNTO F]
+1=
+
+[RP:PUNTO G]
+1=
+
+[MRUFILES]
+1=C:\GitHub\MAO\Esercizio (2)\Punto G.lst
+2=C:\GitHub\MAO\Esercizio (2)\Punto G.gms
+3=C:\GitHub\MAO\Esercizio (2)\Punto F.lst
+4=C:\GitHub\MAO\Esercizio (2)\Punto F.gms
+5=C:\GitHub\MAO\Esercizio (2)\Punto E.gms
+6=C:\GitHub\MAO\Esercizio (2)\Punto E.lst
+7=C:\GitHub\MAO\Esercizio (2)\Punto D.gms
+8=C:\GitHub\MAO\Esercizio (2)\Punto D.lst
+
+[OPENWINDOW_1]
+FILE0=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto A.gms
+FILE1=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto A.lst
+FILE2=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto B.gms
+FILE3=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto B.lst
+FILE4=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto C.gms
+FILE5=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto C.lst
+FILE6=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto D.gms
+FILE7=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto D.lst
+FILE8=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto E.gms
+FILE9=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto E.lst
+FILE10=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto F.gms
+FILE11=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto F.lst
+FILE12=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto G.gms
+FILE13=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto G.lst
+FILE14=C:\Users\samuelexferri\Desktop\Ferri, Sudati\Esercizio (2)\Punto G.lst
+MAXIM=1
+TOP=36
+LEFT=18
+HEIGHT=685
+WIDTH=967
