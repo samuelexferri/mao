@@ -4,11 +4,7 @@
 <img src="https://github.com/samuelexferri/mao/blob/master/images/gams.png" width="400">
 </p>
 
-Optimization Models and Algorithms's project in GAMS
-
-[samuelexferri.com](https://samuelexferri.com)
-
-[samuelexferri.github.io](https://samuelexferri.github.io)
+Optimization Models and Algorithms project in GAMS
 
 ![alt text](https://img.shields.io/badge/Language-Italian-infomrmational?style=for-the-badge)
 
