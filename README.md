@@ -1,7 +1,7 @@
 # Optimization Models and Algorithms
 
 <p align="center">
-<img src="https://github.com/samuelexferri/mao/blob/master/images/gams.png" width="400">
+<img src="https://github.com/samuelexferri/unibg-mao/blob/master/images/gams.png" width="400">
 </p>
 
 Optimization Models and Algorithms project in GAMS
